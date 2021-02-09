@@ -15,6 +15,6 @@ PRETRAIN_MODEL_DIR = "gs://bert-eng/xlnet-large-cased"
 Select feature which you want to run experiment with Feature. DATA_DIR is the location of dataset that you have defined. OUTPUT_DIR is the location of the result (.tsv) that you have defined. PRETRAIN_MODEL_DIR is the location of pretrain model.
 
 # Run Prediction
-To predict, run file run_predict.ipynb for predicting Springer dataset and run_predict_cs.ipynb for predicting Wang dataset
+To predict, run file run_predict.ipynb for predicting Springer dataset and Wang dataset
 
 
