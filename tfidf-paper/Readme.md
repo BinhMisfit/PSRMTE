@@ -1,4 +1,4 @@
-Finalized MoE.ipynb has 2 parts:
+feature.ipynb has 2 parts:
 
 # S2RSCS
 This code to  rerun the experiments of using Chi-Square to select feature and TFIDF to vectorize. After that, use model Multi-Perceptron with 300 units to classify
