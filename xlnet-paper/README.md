@@ -11,7 +11,7 @@ DATA_DIR = "../data/cs-paper/"
 OUTPUT_DIR = "gs://paper/xlnet-large-cs-{}/".format("+".join(FEATURES))
 PRETRAIN_MODEL_DIR = "gs://bert-eng/xlnet-large-cased"
 ```
-Select feature which you want to run experiment with Feature. DATA_DIR is the location of dataset that you have defined. OUTPUT_DIR is the location of the result (.tsv) that you have defined. PRETRAIN_MODEL_DIR is the location of pretrain model.
+Select feature which you want to run experiment with Feature. DATA_DIR is the location of dataset that you have defined. OUTPUT_DIR is the location of the result (.tsv) that you have defined. PRETRAIN_MODEL_DIR is the location of pretrain model (choose your version that you want to run, more information: https://github.com/google-research/bert)
 
 # Run Prediction
 To predict, run file run_predict.ipynb for predicting Springer dataset and run_predict_cs.ipynb for predicting Wang dataset. 
