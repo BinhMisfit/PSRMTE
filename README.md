@@ -1,6 +1,8 @@
 # PSRMTE
 This repository is used to store all codes of our paper "PSRMTE: Paper Submission Recommendation Using Mixtures of Transformer Encoders", which is published in the journal "Expert Systems and Applications".
 
+The paper is available at: https://www.sciencedirect.com/science/article/abs/pii/S0957417422005024#!
+
 
 Please use the *.ipynb files in these folders to execute.
  
