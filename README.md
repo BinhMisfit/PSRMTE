@@ -6,7 +6,7 @@ The paper is available at: https://www.sciencedirect.com/science/article/abs/pii
 
 Please use the *.ipynb files in these folders to execute.
  
-Download and place this data folder into the directory where you clone our codes (https://drive.google.com/drive/folders/1vIsyD962Msm4aXYbUrOGNwj4aLvx-fGL?usp=sharing)
+Download and place this data folder into the directory where you clone our codes (https://drive.google.com/drive/folders/1vIsyD962Msm4aXYbUrOGNwj4aLvx-fGL?usp=sharing). The dataset is file.jsonl
 
 # References
 https://github.com/google-research/bert
