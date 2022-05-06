@@ -17,7 +17,7 @@ https://github.com/google-research/electra
 
 
 # Further Usage
-For any usage related to all codes and data used from our repositor, please cite our following paper:
+For any usage related to all codes and data used from our repository, please cite our following paper:
 
 ```
 @article{NGUYEN2022117096,
